@@ -1,4 +1,4 @@
-# -Fitness-App-Ui-Starter
+# Fitness-App-Ui-Starter
 
 ## Get Started
 
