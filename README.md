@@ -1,4 +1,4 @@
-# Fitness-React-Native-App
+# -Fitness-App-Ui-Starter
 
 ## Get Started
 
@@ -28,4 +28,3 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 Requires an installation of Android build tools (
 see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed
 setup).
-# -Fitness-App-Ui-Starter
